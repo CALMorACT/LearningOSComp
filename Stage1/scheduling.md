@@ -57,3 +57,15 @@
 ### 不足
 
 1. 发现 rustlings 的量还是比较大的，两天做不完，再加一天
+
+## Day6
+
+### 安排
+
+1. rustlings (1/2)
+2. 重读 [Rust 语言圣经](https://course.rs/about-book.html) 基础 (3/3)
+
+### 不足
+
+1. 今天准备了实习的面试，实在没能分时间写rustlings
+2. 不过有空把书的基础部分看完了

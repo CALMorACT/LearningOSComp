@@ -47,3 +47,13 @@
 
 1. push 时候发现权限有问题，需要重新进入 classroom
 2. 写 rustlings 没做什么笔记
+
+## Day5
+
+### 安排
+
+1. rustlings (2/3)
+
+### 不足
+
+1. 发现 rustlings 的量还是比较大的，两天做不完，再加一天

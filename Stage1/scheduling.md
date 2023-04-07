@@ -69,3 +69,10 @@
 
 1. 今天准备了实习的面试，实在没能分时间写rustlings
 2. 不过有空把书的基础部分看完了
+
+## Day7
+
+### 安排
+
+1. rustlings (2/2)
+2. 重读 [Rust 语言圣经](https://course.rs/about-book.html) 进阶 (1/3)

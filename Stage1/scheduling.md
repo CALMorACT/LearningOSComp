@@ -62,7 +62,7 @@
 
 ### 安排
 
-1. rustlings (1/2)
+1. rustlings (2/3)
 2. 重读 [Rust 语言圣经](https://course.rs/about-book.html) 基础 (3/3)
 
 ### 不足
@@ -74,5 +74,5 @@
 
 ### 安排
 
-1. rustlings (2/2)
+1. rustlings (3/3)
 2. 重读 [Rust 语言圣经](https://course.rs/about-book.html) 进阶 (1/3)
